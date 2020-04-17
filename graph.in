@@ -1,4 +1,0 @@
-digraph mygraph {
-  node [shape=box];
-  "//libs/std:std"
-}
